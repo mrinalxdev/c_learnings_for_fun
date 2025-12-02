@@ -1,0 +1,11 @@
+#1 Project ==> Calculator
+
+
+# basic
+- two numbers input
+
+# arthematic operations funcs
+- + 
+- - 
+- *
+- %
